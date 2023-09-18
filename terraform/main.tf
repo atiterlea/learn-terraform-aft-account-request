@@ -11,6 +11,7 @@ module "sandbox" {
   }
 
   account_tags = {
+    "Environment" = "Development"
     "Workstream" = "RnD"
   }
 
