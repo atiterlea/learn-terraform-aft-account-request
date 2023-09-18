@@ -11,7 +11,7 @@ module "sandbox" {
   }
 
   account_tags = {
-    "Workstream" = "R&D"
+    "Workstream" = "RnD"
   }
 
   change_management_parameters = {
